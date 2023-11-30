@@ -1,7 +1,7 @@
 {
   "name": "タイマー",
   "short_name": "タイマー",
-  "start_url": ".",
+  "start_url": "timer.html",
   "display": "standalone",
   "background_color": "#000",
   "description": "タイマー",
